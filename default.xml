@@ -10,6 +10,6 @@
            sync-j="4" />
 
   <!-- Các project con -->
-  <project name="helloworld" path="git/helloworld" revision="main" />
-  <project name="binanceFutureLong" path="git2/" revision="main" />
+  <project name="helloworld.git" path="git/helloworld" revision="master" />
+  <project name="binanceFutureLong.git" path="git2/" revision="master" />
 </manifest>
