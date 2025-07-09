@@ -1,0 +1,9 @@
+<manifest>
+<!-- Remote: nơi chứa Git repos -->
+<remote name="origin" fetch="https://github.com/azuredragon3000/"/>
+<!-- Thiết lập mặc định -->
+<default remote="origin" revision="master" sync-j="4"/>
+<!-- Các project con -->
+<project name="helloworld.git" path="git/helloworld" revision="test-branch"/>
+<project name="binanceFutureLong.git" path="git2/" revision="master"/>
+</manifest>
